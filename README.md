@@ -1,31 +1,67 @@
-# Hola, soy Fernanda Coronel
+<p align="center">
+<pre>
+    /\_/\  💖
+   ( o.o )
+   /  \  \      / 
+  (_____)      (
+  </pre>
+  <h1 align="center">FERNANDA CORONEL</h1>
+  <p align="center">Desarrolladora Web | Frontend con React | Aprendiendo Backend con Node.js & TypeScript</p>
+</p>
 
-"""
-        _______  _______  _______ _________ _______ 
-  |\   | (  __  )(  __   )|\     /|\__   __/(  __  \
-  | |  | | (  )  || (  )  |( \   / )   ) (   | (  \  )
-  | |  | | | /   || | /   | \ (_) /    | |   | |   ) |
-  | |  | | (/ /) || (/ /) |  \   /     | |   | |   | |
-  | |  | |   / | ||   / | |   ) (      | |   | |   ) |
-  | (__) |  (__) ||  (__) |   | |      | |   | (__/  )
-  (_____/  (_____)|_______)   \_/      )_(   (______/
-  
-  ¡Bienvenidos a mi perfil de GitHub! Soy una programadora llena de pasión y entusiasmo por el código.
+---
 
-  Sobre mí:
-  - 🔭 Actualmente estoy concentrada en python.
-  - 🌱 Estoy aprendiendo nuevas tecnologías y herramientas para mejorar mis habilidades de desarrollo.
-  - 👯 Estoy buscando colaborar en proyectos de código abierto en Python.
-  - 💬 Puedes preguntarme sobre Python, Machine Learning o cualquier cosa relacionada con la programación.
-  - ⚡ Dato curioso: Me encanta inventar chistes sobre programación, pero a veces los arrays me indexan mal.
+## 🛠️ Tecnologías y Herramientas
 
-  Habilidades técnicas:
+### Frontend
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
-  ```python
-  def skills():
-      return {
-          "Python": ["Django", "Flask", "NumPy", "Pandas"],
-          "Database": ["MySQL", "PostgreSQL", "MongoDB"],
-          "Version Control": ["Git", "GitHub"],
-          "Other": ["HTML", "CSS", "JavaScript", "react"]
-      }
+
+### Backend (Aprendiendo)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+
+---
+
+## 🔭 Sobre Mí
+
+Soy unaa desarrollador web que actualmente me estoyy orientado mas  en **Frontend**, especialmente con **React**. Me enfoco en crear interfaces de usuario interactivas y funcionales, buscando siempre las mejores prácticas y soluciones eficientes.
+
+Ahora mismo, estoy concentrado/a en sumar el Backend a mis habilidades. Estoy aprendiendo Node.js y TypeScript para construir la parte de atrás de las aplicaciones. La idea es dominar el desarrollo full-stack y poder crear soluciones web completas y sólidas.
+
+---
+
+## 🌱 Aprendiendo Actualmente
+
+* **Fundamentos y Herramientas:**
+    * **Git Avanzado**
+* **Desarrollo Backend:**
+    * **Backend con Node.js y Express.js**
+    * **Bases de datos NoSQL (MongoDB) y SQL (PostgreSQL)**
+    * **Autenticación y Autorización de usuarios**
+    * **Principios de diseño de APIs RESTful**
+* **Calidad de Código y Arquitectura:**
+    * **TypeScript** (para un código más seguro y mantenible)
+    * **Test Driven Development (TDD)**
+    * **Visual TDD**
+    * **Código Limpio**
+    * **Arquitectura Limpia**
+
+---
+
+## ⚡ Intereses
+
+* Desarrollo de aplicaciones web innovadoras.
+* Aprender nuevas tecnologías y frameworks.
+---
+
+
+<p align="center">¡Gracias por visitar mi perfil! 😊</p>
