@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠 Tecnologías y Herramientas
 
 ### Frontend
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -31,7 +31,7 @@
 
 ---
 
-## 🔭 Sobre Mí
+##  Sobre Mí
 
 Soy una desarrolladora web que actualmente se esta especializando en **Frontend**, especialmente con **React**. Me enfoco en crear interfaces de usuario interactivas y funcionales, buscando siempre las mejores prácticas y soluciones eficientes.
 
@@ -39,7 +39,7 @@ Ahora mismo, estoy concentrada en sumar el Backend a mis habilidades. Estoy apre
 
 ---ó
 
-## 🌱 Aprendiendo Actualmente
+## Aprendiendo Actualmente
 
 * **Fundamentos y Herramientas:**
     * **Git Avanzado**
@@ -57,7 +57,7 @@ Ahora mismo, estoy concentrada en sumar el Backend a mis habilidades. Estoy apre
 
 ---
 
-## ⚡ Intereses
+##  Intereses
 
 * Desarrollo de aplicaciones web innovadoras.
 * Aprender nuevas tecnologías y frameworks.
