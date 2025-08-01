@@ -33,11 +33,11 @@
 
 ## 🔭 Sobre Mí
 
-Soy una desarrolladora web que actualmente me estoy orientado mas  en **Frontend**, especialmente con **React**. Me enfoco en crear interfaces de usuario interactivas y funcionales, buscando siempre las mejores prácticas y soluciones eficientes.
+Soy una desarrolladora web que actualmente se esta especializando en **Frontend**, especialmente con **React**. Me enfoco en crear interfaces de usuario interactivas y funcionales, buscando siempre las mejores prácticas y soluciones eficientes.
 
-Ahora mismo, estoy concentrada en sumar el Backend a mis habilidades. Estoy aprendiendo Node.js y TypeScript para construir la parte de atrás de las aplicaciones. La idea es dominar el desarrollo full-stack y poder crear soluciones web completas y sólidas.
+Ahora mismo, estoy concentrada en sumar el Backend a mis habilidades. Estoy aprendiendo Node.js y TypeScript para construir la parte lógica de las aplicaciones. La idea es dominar el desarrollo full-stack y poder crear soluciones web completas y sólidas.
 
----
+---ó
 
 ## 🌱 Aprendiendo Actualmente
 
